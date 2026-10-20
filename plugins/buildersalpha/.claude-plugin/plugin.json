@@ -1,0 +1,11 @@
+{
+  "name": "buildersalpha",
+  "displayName": "BuildersAlpha Coach",
+  "version": "1.0.0",
+  "description": "Coaches you through BuildersAlpha exercises using the BuildersAlpha connector.",
+  "author": {
+    "name": "BuildersAlpha",
+    "url": "https://buildersalpha.com"
+  },
+  "license": "MIT"
+}

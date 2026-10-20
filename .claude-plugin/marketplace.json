@@ -1,0 +1,13 @@
+{
+  "name": "buildersalpha",
+  "owner": {
+    "name": "BuildersAlpha"
+  },
+  "plugins": [
+    {
+      "name": "buildersalpha",
+      "source": "./plugins/buildersalpha",
+      "description": "Your BuildersAlpha coach: exercise, feedback, hints."
+    }
+  ]
+}

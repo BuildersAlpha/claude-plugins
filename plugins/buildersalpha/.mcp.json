@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "buildersalpha": {
+      "type": "http",
+      "url": "https://app.buildersalpha.com/mcp/coach"
+    }
+  }
+}
